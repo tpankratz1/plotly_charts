@@ -6,3 +6,5 @@ A biological researcher in a microbiology lab needed to discover and document ba
 The researcher requested to have a web site with dashboards built, that both their research participants and fellow researchers could access. Participants needed to be able to select their ID number to see which bacterial species lived in their navals.
 
 The built web site visualizes the bacterial data in various ways. An ID selector and panel, as well as bar, bubble and guage charts were created using Plotly. One of the charts helps the volunteers identify the top 10 bacterial species in their belly buttons. If Improbable Beef identifies a species as a candidate to manufacture synthetic beef, the researcher's volunteers will be able to identify whether that species is found in their navel.
+
+Here is the finished web site: https://tpankratz1.github.io/plotly_charts/
